@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+Model_.model_/
+Traffic_Sign_Dataset/
+*.jpeg/
+*.PNG/
+.ipynb_checkpoints/
